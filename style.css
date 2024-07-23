@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient color(rgb(255, 255, 255), rgb(230, 230, 230), rgb(234, 234, 236));
+    text-align: center;
+}
+#app {
+    background: linear-gradients color(rgb(59, 59, 59), rgb(110, 110, 110), rgb(196, 196, 196));
+}
+
+#myCarousel {
+    background: linear-gradient(rgb(150, 0, 0), rgb(245, 0, 0),grey );
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color:aliceblue; 
+    font-size: 20px;
+}
